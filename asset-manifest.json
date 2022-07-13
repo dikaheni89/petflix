@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/petflix/static/css/main.37cbd1b9.css",
+    "main.js": "/petflix/static/js/main.884764cc.js",
+    "static/js/787.0904c1f0.chunk.js": "/petflix/static/js/787.0904c1f0.chunk.js",
+    "service-worker.js": "/petflix/service-worker.js",
+    "index.html": "/petflix/index.html",
+    "main.37cbd1b9.css.map": "/petflix/static/css/main.37cbd1b9.css.map",
+    "main.884764cc.js.map": "/petflix/static/js/main.884764cc.js.map",
+    "787.0904c1f0.chunk.js.map": "/petflix/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37cbd1b9.css",
+    "static/js/main.884764cc.js"
+  ]
+}
